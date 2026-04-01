@@ -1,0 +1,14 @@
+faker
+matplotlib
+networkx
+numpy
+opencv-python
+pillow
+pymongo
+python-barcode
+python-dotenv
+pytesseract
+scikit-learn
+sentence-transformers
+torch
+torch-geometric
